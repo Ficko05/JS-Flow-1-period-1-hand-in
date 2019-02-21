@@ -14,25 +14,40 @@ Explain and Reflect:
 -	Babel is a JS compiler that is used in web development. Babel allows the programmer to code in the preferred programing language, and have it translated by babel inti JS.
 -	Webpack main purpose is to bundle JS files for usage in a browser. 
 
-Explain using sufficient code examples the following features in JavaScript. 
-•	Variable/function-Hoisting
-https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/variableHoisting.js 
-•	Function Closures and the JavaScript Module Pattern
-https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/closuresModulePattern.js 
-•	Immediately-Invoked Function Expressions (IIFE)
+Explain using sufficient code examples the following features in JavaScript.   
+
+•	Variable/function-Hoisting 
+
+https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/variableHoisting.js  
+
+•	Function Closures and the JavaScript Module Pattern 
+
+https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/closuresModulePattern.js  
+
+•	Immediately-Invoked Function Expressions (IIFE) 
+
 Rød elev??
 
 
 •	JavaScripts Prototype
+
 https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/protoType.js 
+
 •	User-defined Callback Functions (writing your own functions that take a callback)
+
 https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/callback.js 
+
 •	Explain the methods map, filter and reduce
+
 https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/mapFilterReduce.js 
+
 •	Provide examples of user-defined reusable modules implemented in Node.js
+
 https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/closuresModulePattern.js 
+
  
 ES6,7,8... and TypeScript
+
 •	Provide examples and explain the es2015 features: let, arrow functions, this, rest parameters, de-structuring assignments, maps/sets etc.
 •	Explain and demonstrate how es2015 supports modules (import and export) similar to what is offered by NodeJS.
 •	Provide an example of ES6 inheritance and reflect over the differences between Inheritance in Java and in ES6.
