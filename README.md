@@ -3,15 +3,25 @@
 Note: This description is too big for a single exam-question. It will be divided up into several questions for the exam
 Explain and Reflect:
 •	Explain the differences between Java and JavaScript. You should include both topics related to the fact that Java is a compiled language and JavaScript a scripted language, and general differences in language features.
+
 -	Both are OOP languages, but java is a OOP programing language while JavaScript is a OOP scripting language. Java runs on a virtual machine and browser. While JS only runs in a browser. Java is considered a compiled programming language. JavaScript is considered an interpreted scripting language. And ofc the syntax differensses.
+
 •	Explain the two strategies for improving JavaScript: ES6 (es2015) + ES7, versus Typescript. What does it require to use these technologies: In our backend with Node and in (many different) Browsers
+
 -	With typescript you get the newest ES versions.
+
 •	Explain generally about node.js, when it “makes sense” and npm, and how it “fits” into the node echo system.
+
 -	node is an open-source runtime environment that execute JS code outside of the browser. We use node in real-time application, when we want to modify code live(run-time).
+
 •	Explain about the Event Loop in Node.js
+
 -	Event looping allows node to perform non-blocking I/O operations. Despite the fact thatJS is single-threaded
+
 •	Explain (some) of the purposes with the tools Babel and WebPack, using  examples from the exercises
+
 -	Babel is a JS compiler that is used in web development. Babel allows the programmer to code in the preferred programing language, and have it translated by babel inti JS.
+
 -	Webpack main purpose is to bundle JS files for usage in a browser. 
 
 Explain using sufficient code examples the following features in JavaScript.   
