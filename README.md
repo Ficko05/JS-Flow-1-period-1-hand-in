@@ -2,6 +2,7 @@
 
 Note: This description is too big for a single exam-question. It will be divided up into several questions for the exam
 Explain and Reflect:
+
 •	Explain the differences between Java and JavaScript. You should include both topics related to the fact that Java is a compiled language and JavaScript a scripted language, and general differences in language features.
 
 -	Both are OOP languages, but java is a OOP programing language while JavaScript is a OOP scripting language. Java runs on a virtual machine and browser. While JS only runs in a browser. Java is considered a compiled programming language. JavaScript is considered an interpreted scripting language. And ofc the syntax differensses.
