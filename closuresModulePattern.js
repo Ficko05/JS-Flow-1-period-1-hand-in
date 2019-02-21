@@ -10,7 +10,7 @@ var Counter = (function () {
     return {
 
         increment: function () {
-            changeBy(2);
+            changeBy(2); //<-- Closures??
         },
         value: function () {
             return privateCounter;
@@ -19,6 +19,7 @@ var Counter = (function () {
     }
 
 })();
+
 
 console.log(Counter.value());
 
