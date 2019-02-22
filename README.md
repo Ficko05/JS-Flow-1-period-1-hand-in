@@ -60,20 +60,32 @@ https://github.com/Ficko05/JS-Flow-1-period-1-hand-in/blob/master/closuresModule
 ES6,7,8... and TypeScript
 
 •	Provide examples and explain the es2015 features: let, arrow functions, this, rest parameters, de-structuring assignments, maps/sets etc.
+-
 •	Explain and demonstrate how es2015 supports modules (import and export) similar to what is offered by NodeJS.
+-
 •	Provide an example of ES6 inheritance and reflect over the differences between Inheritance in Java and in ES6.
+-
 •	Provide examples with es-next, running in a browser, using Babel and Webpack
+-
 •	Provide a number of examples to demonstrate the benefits of using TypeScript, including, types, interfaces, classes and generics
+-
 •	Explain the ECMAScript Proposal Process for how new features are added to the language (the TC39 Process)
 Callbacks, Promises and async/await
+-
 
 Explain about promises in ES-6 including, the problems they solve, a quick explanation of the Promise API and:
+
 •	Example(s) that demonstrate how to avoid the callback hell  (“Pyramid of Doom")
+-
 •	Example(s) that demonstrate how to execute asynchronous (promise-based) code in serial or parallel
+-
 •	Example(s) that demonstrate how to implement our own promise-solutions.
+-
 •	Example(s) that demonstrate error handling with promises
+-
 
 Explain about JavaScripts async/await, how it relates to promises and reasons to use it compared to the plain promise API.
+
 
 Provide examples to demonstrate 
 Why this often is the preferred way of handling promises
